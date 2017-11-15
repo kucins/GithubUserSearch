@@ -14,4 +14,4 @@
 
 ## Dowland
 
-* [APK](android/app/app-release-apk)
+* [APK](android/app/app-release.apk)
